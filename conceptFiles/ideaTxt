@@ -1,0 +1,35 @@
+Core Idea: Create a fetishistic slapstick erotic comedy arcade and point-and-click game.
+
+Premise: You are a frustrated student with telekinetic powers, and your goal is to make the teacher feel embarrassed, mainly by stripping her without her noticing.
+
+Win/Loss Conditions: The game ends if the teacher's anger reaches the maximum, if her embarrassment reaches the maximum, if time runs out, or if a "special ending" occurs.
+
+Fetish Genres Initially Considered: ENF (Embarrassed Nude Female), Erotic comedy, Physical comedy, Slapstick comedy, Derriere in danger, Slapstick, Tickle torture, Spanking.
+
+Development Tools: C++ language, a multimedia library that meets demands without too many complications, and 2D sprites rendered in Honey Select 2's Studio Neo.
+
+Game Structure:
+
+    A title screen with options for New Game, Load, Options, and Exit.
+
+    A scenario screen which, initially, will only have the classroom with the Math teacher, but can expand to a scenario with the P.E. teacher on the court, for example.
+
+    A shop screen (per scenario) that exchanges score for new objects in the scenario, new telekinesis options, and new opportunities with Mandy (The idea is to force the player to play the same scenario again and again to buy new things and open new opportunities).
+
+    A scoring screen at the end of the stage that values how much you stripped the teacher, how much embarrassment she suffered, how creative you were, and gives a special bonus in cases of a "special ending".
+
+Gameplay (Idea for Scenario 1, Math Classroom, but the model will be the same for other stages):
+
+    You will be in the protagonist's POV and can face 4 directions: Blackboard, Left Side, Cabinet (Right Side), and Back (Mandy).
+
+    The teacher will be in one of these three places (Exception being Back) doing something or reacting to something, varying according to what happens or from time to time, and may be distracted or not (Ex: The teacher is teaching until the player makes her chalk fall and she starts picking it up from the floor, distracting her).
+
+    In the player's view, there will be objects that he can pick up, interact with, or reposition. However, depending on whether she is distracted or not, she may get irritated if she sees you messing with certain objects (Ex: Taking items from the cabinet while she is not distracted).
+
+    Behind you will be Mandy, your classmate who, in exchange for favors (in the form of quicktime events and/or tasks), gives you an item, distracts the teacher, calms her anger and/or embarrassment, or puts the teacher in an arbitrary situation. The teacher may get irritated if she sees you turned towards Mandy while she is not distracted.
+
+    The teacher may notice she is undressed or partially undressed and fix her clothes, unless that is impossible (e.g., Clothes are in the player's inventory).
+
+    The "special ending" would happen if the player put the teacher in a specific condition and would end with a cutscene in comic book format (e.g., The player managed to strip the teacher down to just her panties without her noticing, and manages to hook her by the panties on the flag pole, receiving a Wedgie. Special ending cutscene plays).
+
+Example of a Feasible Scenario within the Game: The player, after doing a task for Mandy, obtains a pair of strong magnets, then distracts the teacher to manage to take off her skirt and, right after, puts one of the magnets inside her panties without her noticing. Immediately after, he puts another magnet attached to her chair, and as soon as she sits and gets up, her panties stay on the chair without her noticing. The player can collect her panties if he wants.
